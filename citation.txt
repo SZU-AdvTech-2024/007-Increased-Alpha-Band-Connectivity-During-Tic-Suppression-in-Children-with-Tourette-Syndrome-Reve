@@ -1,0 +1,13 @@
+@article{REPO007,
+    author = "Morand-Beaulieu, Simon and Wu, Jia and Mayes, Linda C. and Grantz, Heidi and Leckman, James F. and Crowley, Michael J. and Sukhodolsky, Denis G.",
+    doi = "https://doi.org/10.1016/j.bpsc.2021.05.001",
+    issn = "2451-9022",
+    journal = "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+    keywords = "Connectivity, Electroencephalography, Graph theory, Tic suppression, Tics, Tourette syndrome",
+    number = "3",
+    pages = "241-250",
+    title = "{Increased Alpha-Band Connectivity During Tic Suppression in Children With Tourette Syndrome Revealed by Source Electroencephalography Analyses}",
+    url = "https://www.sciencedirect.com/science/article/pii/S2451902221001403",
+    volume = "8",
+    year = "2023"
+}
